@@ -1,0 +1,30 @@
+#GitBlog配置文件，使用4个空格代替Tab
+---
+url: /
+title: Ivan's Blog
+subtitle: 随手写，随手记 
+theme: quest 
+enableCache: true
+highlight: true
+mathjax: false
+duoshuo: ivanhao1984
+baiduAnalytics: 555e31d6524985cd82ac348760cd7a50
+keywords: GitBlog,博客,Markdown博客,jockchou
+description: >
+    GitBlog是一个简单易用的Markdown博客系统
+version: 2.2
+author:
+    name: Ivan Hao 
+    email: ivanhao@hotmail.com
+    github: ivanraspi.github.com 
+    weibo: your-weibo
+    avatar: http://app.qlogo.cn/mbloghead/08461ab1fb1489caa648/50 
+blog:
+    recentSize: 5
+    pageSize: 6
+    pageBarSize: 5
+    allBlogsForPage: false
+text:
+    title: 介绍
+    intro: >
+          本博客使用Gitblog搭建，欢迎你!
