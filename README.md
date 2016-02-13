@@ -1,4 +1,6 @@
-> Gitblog code for my github blog.Include my blog contents,please don't clone it.Thank you! >这是我的gitblog源码和内容，由于有博客内容，请不要下载，下载请到:[https://github.com/jockchou/gitblog](https://github.com/jockchou/gitblog)
+> Gitblog code for my github blog.Include my blog contents,please don't clone it.Thank you!
+
+>这是我的gitblog源码和内容，由于有博客内容，请不要下载，下载请到:[https://github.com/jockchou/gitblog](https://github.com/jockchou/gitblog)
 
 <<<<<<< HEAD
 ## 一. 简介 ##
