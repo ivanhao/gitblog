@@ -39,4 +39,6 @@ autossh  -M 5678 -R 19999:localhost:22 远程用户名@远程ip -p 远程端口
 
   可以用screen来让它保持在后台运行。
 
->  *关于autossh和screen的安装，参见entWare环境配置，里面会提到如何安装软件*
+>  *关于autossh和screen的安装，参见[entWare环境配置][1]，里面会提到如何安装软件*
+
+[1]:/blog/entware-smb.html
