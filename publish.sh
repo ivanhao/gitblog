@@ -1,7 +1,5 @@
 #!/bin/bash
 php ./index.php Gitblog exportSite
-rm -R ivanhao.github.io
-git clone https://github.com/ivanhao/ivanhao.github.io.git
 cd ./_site
 cp -R `ls ./ | grep -E -v "^(theme)$"` ../ivanhao.github.io/
 cd ../ivanhao.github.io
