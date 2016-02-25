@@ -1,5 +1,5 @@
 #!/bin/bash
-php ./index.php Gitblog exportSite
+/opt/bin/php-cgi ./index.php Gitblog exportSite
 cd ./_site
 cp -R `ls ./ | grep -E -v "^(theme)$"` ../ivanhao.github.io/
 cd ../ivanhao.github.io
