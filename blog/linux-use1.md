@@ -2,8 +2,8 @@
 author:ivan 
 date: 2016-06-04
 title: linux的常用命令1
-tags: linux
-category: linux
+tags: Linux
+category: Linux
 status: publish
 summary: linux的常用命令1
 -->
